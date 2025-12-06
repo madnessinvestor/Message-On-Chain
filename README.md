@@ -4,6 +4,10 @@ A simple, secure, and immutable smart contract designed to record messages on-ch
 Each wallet can send up to 5 messages, with a maximum size of 200 bytes per message.
 No funds are ever stored or transferred — users pay only the network gas fee.
 
+Front-End with Code
+https://arcmessageonchain.replit.app
+
+
 ✨ Features
 
 🔒 Maximum of 5 messages per wallet
